@@ -1,5 +1,5 @@
 # TheGameofMinion
-This a java-swing minigame .The player guides a minion across a side-scrolling landscape, avoiding obstacles to achieve a higher score. 
+This a java-swing minigame. The player guides a minion across a side-scrolling landscape, avoiding obstacles to achieve a higher score. 
 
 ## Project Title:
 - Category(e.g: Management System/Game): Game (The Game Of Minion) 
@@ -19,4 +19,4 @@ This a java-swing minigame .The player guides a minion across a side-scrolling l
 - Files: User.txt, User1.txt
 - GUI: Swing
 
-Developer: [Kazi Ramisa Rifa](mailto:kazi.rifa@northsouth.edu)
+Developer: [Fariha Nur Hasin](mailto:fariha.hasin4424@gmail.com)
