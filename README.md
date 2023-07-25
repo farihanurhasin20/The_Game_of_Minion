@@ -6,7 +6,7 @@ This is a Java Swing mini-game where players control a cute minion character as 
 
 
 ## Game Window
-![GameWindow](./Code/Img/screen_view.png)
+![GameWindow](./Code/Img/USER-ScreenView.png)
 
 
 ## Requirements:
